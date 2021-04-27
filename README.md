@@ -1,2 +1,2 @@
 # system-Delivery
-Sistema de delivery que envia pedidos pelo WhatsApp.
+Sistema de delivery que envia pedidos por WhatsApp.
